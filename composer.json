@@ -1,0 +1,9 @@
+{
+  "name": "c2media/custom-commands",
+  "type": "shopware-plugin",
+  "description": "New Cli Commands for shopware",
+  "license": "MIT",
+  "extra": {
+    "installer-name": "C2MediaCustomCommands"
+  }
+}
